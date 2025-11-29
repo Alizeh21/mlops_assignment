@@ -1,0 +1,8 @@
+dvc
+pandas
+numpy
+scikit-learn
+kfp
+joblib
+python-dotenv
+kubeflow-metadata
